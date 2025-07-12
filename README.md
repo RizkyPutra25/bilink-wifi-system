@@ -1,2 +1,2 @@
-# bilink-wifi-system
-Asisten pembayaran dan monitoring jaringan 
+# Bilink Frontend
+Instructions to run the React frontend.
